@@ -1,0 +1,12 @@
+1. while using pbds containers:
+     #define int long long macro should be removed 
+
+2. while using lambda functions:
+     #define int long long macro should be removed
+
+3. while dealing with graphs and using own templates
+    make sure graph is 0 indexed
+
+3. while generating output file from given input
+    make sure to set CXX_FLAGS to $(FLAGS_SAFE)
+

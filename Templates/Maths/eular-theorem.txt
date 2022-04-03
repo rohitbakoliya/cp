@@ -1,0 +1,5 @@
+
+
+a^b % m = (a ^ (b % etf(m)))%m
+
+where etf is eular-totient-function
